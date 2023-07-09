@@ -1,0 +1,3 @@
+Merhaba||Merhaba, nasıl yardımcı olabilirim?\n
+Nasılsın?||Ben bir yapay zeka sohbet botuyum, size nasıl yardımcı olabilirim?\n
+Hava nasıl?||Bugün hava oldukça güzel.\n

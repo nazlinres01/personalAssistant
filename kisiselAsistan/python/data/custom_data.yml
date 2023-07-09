@@ -1,0 +1,8 @@
+categories:
+- my_custom_data
+
+conversations:
+- - Kullanıcı: Merhaba
+  - Bot: Merhaba, size nasıl yardımcı olabilirim?
+- - Kullanıcı: Nasılsınız?
+  - Bot: Ben bir yapay zeka olduğum için hissetmiyorum, ama teşekkür ederim.
